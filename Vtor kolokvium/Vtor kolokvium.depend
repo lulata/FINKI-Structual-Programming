@@ -1,0 +1,187 @@
+# depslib dependency file v1.0
+1611231979 source:d:\proekti\c\vtor kolokvium\lab6zad1.c
+	<stdio.h>
+	<stdlib.h>
+
+1611142370 source:d:\proekti\c\vtor kolokvium\lab6zad2.c
+	<stdio.h>
+	<stdlib.h>
+
+1611142605 source:d:\proekti\c\vtor kolokvium\lab6zad3.c
+	<stdio.h>
+	<stdlib.h>
+
+1611144150 source:d:\proekti\c\vtor kolokvium\lab6zad4.c
+	<stdio.h>
+	<stdlib.h>
+
+1611143713 source:d:\proekti\c\vtor kolokvium\lab6zad5.c
+	<stdio.h>
+	<stdlib.h>
+
+1611168181 source:d:\proekti\c\vtor kolokvium\lab6zad6.c
+	<stdio.h>
+	<stdlib.h>
+
+1611168201 source:d:\proekti\c\vtor kolokvium\lab6zad7.c
+	<stdio.h>
+	<stdlib.h>
+
+1611168219 source:d:\proekti\c\vtor kolokvium\lab7zad1.c
+	<stdio.h>
+	<stdlib.h>
+
+1611168251 source:d:\proekti\c\vtor kolokvium\lab7zad2.c
+	<stdio.h>
+	<stdlib.h>
+
+1611168261 source:d:\proekti\c\vtor kolokvium\lab7zad3.c
+	<stdio.h>
+	<stdlib.h>
+
+1611168270 source:d:\proekti\c\vtor kolokvium\lab7zad4.c
+	<stdio.h>
+	<stdlib.h>
+
+1611168831 source:d:\proekti\c\vtor kolokvium\lab7zad5.c
+	<stdio.h>
+	<stdlib.h>
+
+1611168279 source:d:\proekti\c\vtor kolokvium\lab7zad6.c
+	<stdio.h>
+
+1611168287 source:d:\proekti\c\vtor kolokvium\lab7zad7.c
+	<stdio.h>
+	<stdlib.h>
+
+1611168301 source:d:\proekti\c\vtor kolokvium\lab7zad8.c
+	<stdio.h>
+	<stdlib.h>
+
+1611168312 source:d:\proekti\c\vtor kolokvium\lab7zad9.c
+	<stdio.h>
+	<stdlib.h>
+
+1611251475 source:d:\proekti\c\vtor kolokvium\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1611181052 source:d:\proekti\c\vtor kolokvium\lab8zad1.c
+	<stdio.h>
+	<stdlib.h>
+
+1611181310 source:d:\proekti\c\vtor kolokvium\lab8zad3.c
+	<stdio.h>
+	<stdlib.h>
+
+1611181626 source:d:\proekti\c\vtor kolokvium\lab8zad4.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+
+1611181706 source:d:\proekti\c\vtor kolokvium\lab8zad5.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1611230981 source:d:\proekti\c\vtor kolokvium\lab9zad1.c
+	<stdio.h>
+	<stdlib.h>
+
+1611231139 source:d:\proekti\c\vtor kolokvium\lab9zad2.c
+	<stdio.h>
+
+1611231962 source:d:\proekti\c\vtor kolokvium\lab9zad3.c
+	<stdio.h>
+
+1611181205 source:d:\proekti\c\vtor kolokvium\lab8zad2.c
+	<stdio.h>
+	<stdlib.h>
+
+1611232120 source:d:\proekti\c\vtor kolokvium\kol2017zad1.c
+
+1611232124 source:d:\proekti\c\vtor kolokvium\kol2017zad2.c
+
+1611232127 source:d:\proekti\c\vtor kolokvium\kol2017zad3.c
+
+1611237381 source:d:\proekti\c\vtor kolokvium\kol2zad1.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+
+1611243938 source:d:\proekti\c\vtor kolokvium\kol2zad10.c
+	<stdio.h>
+	<stdlib.h>
+
+1611243628 source:d:\proekti\c\vtor kolokvium\kol2zad11.c
+	<stdio.h>
+
+1611243929 source:d:\proekti\c\vtor kolokvium\kol2zad12.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1611249993 source:d:\proekti\c\vtor kolokvium\kol2zad13.c
+	<stdio.h>
+	<stdlib.h>
+
+1611250515 source:d:\proekti\c\vtor kolokvium\kol2zad14.c
+	<stdio.h>
+	<stdlib.h>
+
+1611250647 source:d:\proekti\c\vtor kolokvium\kol2zad15.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1611251044 source:d:\proekti\c\vtor kolokvium\kol2zad16.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1611251461 source:d:\proekti\c\vtor kolokvium\kol2zad17.c
+	<stdio.h>
+	<stdlib.h>
+
+1611232099 source:d:\proekti\c\vtor kolokvium\kol2zad18.c
+
+1611232104 source:d:\proekti\c\vtor kolokvium\kol2zad19.c
+
+1611232107 source:d:\proekti\c\vtor kolokvium\kol2zad20.c
+
+1611232114 source:d:\proekti\c\vtor kolokvium\kol2zad21.c
+
+1611239049 source:d:\proekti\c\vtor kolokvium\kol2zad3.c
+	<stdio.h>
+	<stdlib.h>
+
+1611239150 source:d:\proekti\c\vtor kolokvium\kol2zad4.c
+	<stdio.h>
+	<stdlib.h>
+
+1611239722 source:d:\proekti\c\vtor kolokvium\kol2zad5.c
+	<stdio.h>
+	<string.h>
+
+1611239739 source:d:\proekti\c\vtor kolokvium\kol2zad6.c
+	<stdio.h>
+	<string.h>
+
+1611239775 source:d:\proekti\c\vtor kolokvium\kol2zad7.c
+	<stdio.h>
+	<stdlib.h>
+
+1611241919 source:d:\proekti\c\vtor kolokvium\kol2zad8.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1611242124 source:d:\proekti\c\vtor kolokvium\kol2zad9.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1611237585 source:d:\proekti\c\vtor kolokvium\kol2zad2.c
+	<stdio.h>
+	<string.h>
+

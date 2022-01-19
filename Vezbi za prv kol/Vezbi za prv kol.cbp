@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Vezbi za prv kol" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Vezbi za prv kol" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Vezbi za prv kol" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="lab1zad1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab1zad2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab1zad3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab1zad4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab1zad5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab2zad1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab2zad2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab2zad3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab2zad4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab2zad5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab2zad6.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab2zad7.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab2zad8.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab2zad9.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab3zad1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab3zad10.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab3zad2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab3zad3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab3zad4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab3zad5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab3zad6.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab3zad7.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab3zad8.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab3zad9.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab4zad1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab4zad2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab4zad3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab4zad4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab4zad5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab4zad6.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab4zad7.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab4zad8.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="labKolzad1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="labKolzad10.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="labKolzad11.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="labKolzad2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="labKolzad3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="labKolzad4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="labKolzad5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="labKolzad6.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="labKolzad7.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="labKolzad8.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="labKolzad9.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

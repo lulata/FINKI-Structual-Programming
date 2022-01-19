@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1608558729 source:c:\users\david\desktop\proekti\c\vtor kol vezbi\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1608554314 source:c:\users\david\desktop\proekti\c\vtor kol vezbi\zad1.c
+
+1608556032 source:c:\users\david\desktop\proekti\c\vtor kol vezbi\zad10.c
+	<stdio.h>
+	<stdlib.h>
+
+1608554620 source:c:\users\david\desktop\proekti\c\vtor kol vezbi\zad11.c
+
+1608554625 source:c:\users\david\desktop\proekti\c\vtor kol vezbi\zad12.c
+
+1608556228 source:c:\users\david\desktop\proekti\c\vtor kol vezbi\zad13.c
+	<stdio.h>
+	<stdlib.h>
+
+1608556514 source:c:\users\david\desktop\proekti\c\vtor kol vezbi\zad14.c
+	<stdio.h>
+	<stdlib.h>
+
+1608556781 source:c:\users\david\desktop\proekti\c\vtor kol vezbi\zad15.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1608557222 source:c:\users\david\desktop\proekti\c\vtor kol vezbi\zad16.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1608557421 source:c:\users\david\desktop\proekti\c\vtor kol vezbi\zad17.c
+	<stdio.h>
+	<stdlib.h>
+
+1608557644 source:c:\users\david\desktop\proekti\c\vtor kol vezbi\zad18.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1608558020 source:c:\users\david\desktop\proekti\c\vtor kol vezbi\zad19.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1608554318 source:c:\users\david\desktop\proekti\c\vtor kol vezbi\zad2.c
+
+1608554656 source:c:\users\david\desktop\proekti\c\vtor kol vezbi\zad20.c
+
+1608554660 source:c:\users\david\desktop\proekti\c\vtor kol vezbi\zad21.c
+
+1608554320 source:c:\users\david\desktop\proekti\c\vtor kol vezbi\zad3.c
+
+1608555295 source:c:\users\david\desktop\proekti\c\vtor kol vezbi\zad4.c
+	<stdio.h>
+	<stdlib.h>
+
+1608554355 source:c:\users\david\desktop\proekti\c\vtor kol vezbi\zad5.c
+
+1608554358 source:c:\users\david\desktop\proekti\c\vtor kol vezbi\zad6.c
+
+1608555560 source:c:\users\david\desktop\proekti\c\vtor kol vezbi\zad7.c
+	<stdio.h>
+	<stdlib.h>
+
+1608554608 source:c:\users\david\desktop\proekti\c\vtor kol vezbi\zad9.c
+
+1608556620 source:c:\users\david\desktop\proekti\c\vtor kol vezbi\zad8.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+

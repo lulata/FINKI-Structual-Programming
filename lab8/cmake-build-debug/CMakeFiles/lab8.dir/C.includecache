@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/David/Desktop/Proekti/C/lab8/main.c
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/David/Desktop/Proekti/C/lab8/zad1.c
+
+C:/Users/David/Desktop/Proekti/C/lab8/zad2.c
+
+C:/Users/David/Desktop/Proekti/C/lab8/zad3.c
+
+C:/Users/David/Desktop/Proekti/C/lab8/zad4.c
+
+C:/Users/David/Desktop/Proekti/C/lab8/zad5.c
+

@@ -1,0 +1,151 @@
+# depslib dependency file v1.0
+1612550019 source:d:\proekti\c\vezbi za iispit\lab6zad1.c
+	<stdio.h>
+	<stdlib.h>
+
+1612545830 source:d:\proekti\c\vezbi za iispit\lab6zad2.c
+	<stdio.h>
+	<stdlib.h>
+
+1612545859 source:d:\proekti\c\vezbi za iispit\lab6zad3.c
+	<stdio.h>
+	<stdlib.h>
+
+1612550026 source:d:\proekti\c\vezbi za iispit\lab6zad4.c
+	<stdio.h>
+	<stdlib.h>
+
+1612545938 source:d:\proekti\c\vezbi za iispit\lab6zad5.c
+	<stdio.h>
+	<stdlib.h>
+
+1612546131 source:d:\proekti\c\vezbi za iispit\lab6zad6.c
+	<stdio.h>
+	<stdlib.h>
+
+1612546189 source:d:\proekti\c\vezbi za iispit\lab6zad7.c
+	<stdio.h>
+	<stdlib.h>
+
+1612821572 source:d:\proekti\c\vezbi za iispit\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1612796619 source:d:\proekti\c\vezbi za iispit\lab7zad1.c
+	<stdio.h>
+	<stdlib.h>
+
+1612797736 source:d:\proekti\c\vezbi za iispit\lab7zad2.c
+	<stdio.h>
+	<stdlib.h>
+
+1612797271 source:d:\proekti\c\vezbi za iispit\lab7zad3.c
+	<stdio.h>
+	<stdlib.h>
+
+1612796962 source:d:\proekti\c\vezbi za iispit\lab7zad4.c
+	<stdio.h>
+	<stdlib.h>
+
+1612797263 source:d:\proekti\c\vezbi za iispit\lab7zad5.c
+	<stdio.h>
+	<stdlib.h>
+
+1612797322 source:d:\proekti\c\vezbi za iispit\lab7zad6.c
+	<stdio.h>
+
+1612797377 source:d:\proekti\c\vezbi za iispit\lab7zad7.c
+	<stdio.h>
+	<stdlib.h>
+
+1612797406 source:d:\proekti\c\vezbi za iispit\lab7zad8.c
+	<stdio.h>
+	<stdlib.h>
+
+1612797444 source:d:\proekti\c\vezbi za iispit\lab7zad9.c
+	<stdio.h>
+	<stdlib.h>
+
+1612819381 source:d:\proekti\c\vezbi za iispit\lab8zad1.c
+	<stdio.h>
+	<stdlib.h>
+
+1612819837 source:d:\proekti\c\vezbi za iispit\lab8zad3.c
+	<stdio.h>
+
+1612819883 source:d:\proekti\c\vezbi za iispit\lab8zad4.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+
+1612819990 source:d:\proekti\c\vezbi za iispit\lab8zad5.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1612819676 source:d:\proekti\c\vezbi za iispit\lab8zad2.c
+	<stdio.h>
+
+1612821467 source:d:\proekti\c\vezbi za iispit\lab9zad1.c
+	<stdio.h>
+	<stdlib.h>
+
+1612821571 source:d:\proekti\c\vezbi za iispit\lab9zad2.c
+	<stdio.h>
+
+1612879463 source:d:\proekti\c\vezbi za iispit\ispit2017zad1.c
+
+1612879468 source:d:\proekti\c\vezbi za iispit\ispit2017zad2.c
+
+1612879474 source:d:\proekti\c\vezbi za iispit\ispit2017zad3.c
+
+1612879481 source:d:\proekti\c\vezbi za iispit\kol2zad1.c
+
+1612879486 source:d:\proekti\c\vezbi za iispit\kol2zad2.c
+
+1612821609 source:d:\proekti\c\vezbi za iispit\lab9zad3.c
+	<stdio.h>
+
+1612880013 source:d:\proekti\c\vezbi za iispit\zad1.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+
+1612879407 source:d:\proekti\c\vezbi za iispit\zad10.c
+
+1612879409 source:d:\proekti\c\vezbi za iispit\zad11.c
+
+1612879413 source:d:\proekti\c\vezbi za iispit\zad12.c
+
+1612879416 source:d:\proekti\c\vezbi za iispit\zad13.c
+
+1612879419 source:d:\proekti\c\vezbi za iispit\zad14.c
+
+1612879423 source:d:\proekti\c\vezbi za iispit\zad15.c
+
+1612879429 source:d:\proekti\c\vezbi za iispit\zad16.c
+
+1612879432 source:d:\proekti\c\vezbi za iispit\zad17.c
+
+1612879436 source:d:\proekti\c\vezbi za iispit\zad18.c
+
+1612879439 source:d:\proekti\c\vezbi za iispit\zad19.c
+
+1612879446 source:d:\proekti\c\vezbi za iispit\zad20.c
+
+1612879455 source:d:\proekti\c\vezbi za iispit\zad21.c
+
+1612879382 source:d:\proekti\c\vezbi za iispit\zad3.c
+
+1612879385 source:d:\proekti\c\vezbi za iispit\zad4.c
+
+1612879388 source:d:\proekti\c\vezbi za iispit\zad5.c
+
+1612879393 source:d:\proekti\c\vezbi za iispit\zad6.c
+
+1612879397 source:d:\proekti\c\vezbi za iispit\zad7.c
+
+1612879401 source:d:\proekti\c\vezbi za iispit\zad8.c
+
+1612879404 source:d:\proekti\c\vezbi za iispit\zad9.c
+

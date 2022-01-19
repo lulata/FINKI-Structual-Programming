@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1603832815 source:c:\users\david\desktop\proekti\c\labs1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1603832040 source:c:\users\david\desktop\proekti\c\labs1\zadaca2.c
+	<stdio.h>
+	<stdlib.h>
+
+1603832267 source:c:\users\david\desktop\proekti\c\labs1\zadaca3.c
+	<stdio.h>
+	<stdlib.h>
+
+1603832267 source:c:\users\david\desktop\proekti\c\labs1\zadaca1.c
+	<stdio.h>
+	<stdlib.h>
+
+1603832829 source:c:\users\david\desktop\proekti\c\labs1\zadaca4.c
+	<stdio.h>
+	<stdlib.h>
+

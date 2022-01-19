@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="vezbi za iispit" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/vezbi za iispit" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/vezbi za iispit" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="ispit2017zad1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ispit2017zad2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ispit2017zad3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="kol2zad1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="kol2zad2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab6zad1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab6zad2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab6zad3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab6zad4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab6zad5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab6zad6.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab6zad7.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab7zad1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab7zad2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab7zad3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab7zad4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab7zad5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab7zad6.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab7zad7.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab7zad8.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab7zad9.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab8zad1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab8zad2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab8zad3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab8zad4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab8zad5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab9zad1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab9zad2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab9zad3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zad1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zad10.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zad11.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zad12.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zad13.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zad14.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zad15.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zad16.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zad17.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zad18.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zad19.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zad2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zad20.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zad21.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zad3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zad4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zad5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zad6.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zad7.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zad8.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zad9.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

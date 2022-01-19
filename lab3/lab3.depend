@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1604693863 source:c:\users\david\desktop\proekti\c\lab3\zad1.c
+	<stdio.h>
+	<stdlib.h>
+
+1604760832 source:c:\users\david\desktop\proekti\c\lab3\zad2.c
+	<stdio.h>
+	<stdlib.h>
+
+1604788045 source:c:\users\david\desktop\proekti\c\lab3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1604760603 source:c:\users\david\desktop\proekti\c\lab3\zad10.c
+	<stdio.h>
+	<stdlib.h>
+
+1604754672 source:c:\users\david\desktop\proekti\c\lab3\zad3.c
+	<stdio.h>
+	<stdlib.h>
+
+1604754672 source:c:\users\david\desktop\proekti\c\lab3\zad4.c
+	<stdio.h>
+	<stdlib.h>
+
+1604788069 source:c:\users\david\desktop\proekti\c\lab3\zad5.c
+	<stdio.h>
+	<stdlib.h>
+
+1604788045 source:c:\users\david\desktop\proekti\c\lab3\zad6.c
+	<stdio.h>
+	<stdlib.h>
+
+1604756956 source:c:\users\david\desktop\proekti\c\lab3\zad7.c
+	<stdio.h>
+	<stdlib.h>
+
+1604699674 source:c:\users\david\desktop\proekti\c\lab3\zad8.c
+	<stdio.h>
+	<stdlib.h>
+
+1604699674 source:c:\users\david\desktop\proekti\c\lab3\zad9.c
+	<stdio.h>
+	<stdlib.h>
+

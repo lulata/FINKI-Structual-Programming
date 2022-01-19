@@ -1,0 +1,175 @@
+# depslib dependency file v1.0
+1606240662 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\lab1zad1.c
+	<stdio.h>
+	<stdlib.h>
+
+1606240657 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\lab1zad2.c
+	<stdio.h>
+	<stdlib.h>
+
+1606240642 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\lab1zad3.c
+	<stdio.h>
+	<stdlib.h>
+
+1606240693 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\lab1zad4.c
+	<stdio.h>
+	<stdlib.h>
+
+1606241891 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\lab1zad5.c
+	<stdio.h>
+	<stdlib.h>
+
+1606459440 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1606257206 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\lab2zad1.c
+	<stdio.h>
+	<stdlib.h>
+
+1606258207 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\lab2zad2.c
+	<stdio.h>
+	<stdlib.h>
+
+1606259979 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\lab2zad3.c
+	<stdio.h>
+	<stdlib.h>
+
+1606310971 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\lab2zad4.c
+	<stdio.h>
+	<stdlib.h>
+
+1606311109 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\lab2zad5.c
+	<stdio.h>
+	<stdlib.h>
+
+1606311215 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\lab2zad6.c
+	<stdio.h>
+	<stdlib.h>
+
+1606260236 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\lab2zad7.c
+	<stdio.h>
+	<stdlib.h>
+
+1606311470 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\lab2zad8.c
+	<stdio.h>
+	<stdlib.h>
+
+1606260318 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\lab2zad9.c
+	<stdio.h>
+	<stdlib.h>
+
+1606317386 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\lab3zad1.c
+	<stdio.h>
+	<stdlib.h>
+
+1606344118 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\lab3zad10.c
+	<stdio.h>
+	<stdlib.h>
+
+1606346864 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\lab3zad2.c
+	<stdio.h>
+	<stdlib.h>
+
+1606318827 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\lab3zad3.c
+	<stdio.h>
+	<stdlib.h>
+
+1606320696 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\lab3zad4.c
+	<stdio.h>
+	<stdlib.h>
+
+1606323191 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\lab3zad5.c
+	<stdio.h>
+	<stdlib.h>
+
+1606400226 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\lab3zad6.c
+	<stdio.h>
+	<stdlib.h>
+
+1606325727 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\lab3zad7.c
+	<stdio.h>
+	<stdlib.h>
+
+1606326341 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\lab3zad8.c
+	<stdio.h>
+	<stdlib.h>
+
+1606327770 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\lab3zad9.c
+	<stdio.h>
+	<stdlib.h>
+
+1606346886 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\lab5zad1.c
+	<stdio.h>
+	<stdlib.h>
+
+1606347875 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\lab5zad2.c
+	<stdio.h>
+	<stdlib.h>
+
+1606344153 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\lab5zad3.c
+
+1606402691 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\lab4zad1.c
+	<stdio.h>
+	<stdlib.h>
+
+1606412632 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\lab4zad2.c
+	<stdio.h>
+	<stdlib.h>
+
+1606403062 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\lab4zad3.c
+	<stdio.h>
+	<stdlib.h>
+
+1606408820 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\lab4zad4.c
+	<stdio.h>
+	<stdlib.h>
+
+1606409890 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\lab4zad5.c
+	<stdio.h>
+	<stdlib.h>
+
+1606409207 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\lab4zad6.c
+	<stdio.h>
+	<stdlib.h>
+
+1606409936 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\lab4zad7.c
+	<stdio.h>
+	<stdlib.h>
+
+1606410842 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\lab4zad8.c
+	<stdio.h>
+	<stdlib.h>
+
+1606429294 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\labkolzad1.c
+	<stdio.h>
+	<stdlib.h>
+
+1606427712 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\labkolzad10.c
+
+1606427716 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\labkolzad11.c
+
+1606429321 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\labkolzad2.c
+	<stdio.h>
+	<stdlib.h>
+
+1606429619 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\labkolzad3.c
+	<stdio.h>
+	<stdlib.h>
+
+1606427681 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\labkolzad4.c
+
+1606430977 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\labkolzad5.c
+	<stdio.h>
+	<stdlib.h>
+
+1606427688 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\labkolzad6.c
+
+1606432853 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\labkolzad7.c
+	<stdio.h>
+	<stdlib.h>
+
+1606427699 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\labkolzad8.c
+
+1606427706 source:c:\users\david\desktop\proekti\c\vezbi za prv kol\labkolzad9.c
+

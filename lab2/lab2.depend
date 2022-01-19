@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1604072231 source:c:\users\david\desktop\proekti\c\lab2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1603836542 source:c:\users\david\desktop\proekti\c\lab2\zadaca1.c
+	<stdio.h>
+	<stdlib.h>
+
+1603837420 source:c:\users\david\desktop\proekti\c\lab2\zadaca2.c
+	<stdio.h>
+	<stdlib.h>
+
+1603837788 source:c:\users\david\desktop\proekti\c\lab2\zadaca3.c
+	<stdio.h>
+	<stdlib.h>
+
+1603910712 source:c:\users\david\desktop\proekti\c\lab2\zadaca4.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1603842247 source:c:\users\david\desktop\proekti\c\lab2\zadaca5.c
+	<stdio.h>
+	<stdlib.h>
+
+1603842703 source:c:\users\david\desktop\proekti\c\lab2\zadaca6.c
+	<stdio.h>
+	<stdlib.h>
+
+1603913450 source:c:\users\david\desktop\proekti\c\lab2\zadaca7.c
+	<stdio.h>
+	<stdlib.h>
+
+1603913450 source:c:\users\david\desktop\proekti\c\lab2\zadaca8.c
+	<stdio.h>
+	<stdlib.h>
+
+1603913450 source:c:\users\david\desktop\proekti\c\lab2\zadaca9.c
+	<stdio.h>
+	<stdlib.h>
+

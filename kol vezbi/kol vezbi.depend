@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1604956161 source:c:\users\david\desktop\proekti\c\kol vezbi\zad1.c
+	<stdio.h>
+	<stdlib.h>
+
+1605398447 source:c:\users\david\desktop\proekti\c\kol vezbi\zad10.c
+	<stdio.h>
+	<stdlib.h>
+
+1605398432 source:c:\users\david\desktop\proekti\c\kol vezbi\zad11.c
+	<stdio.h>
+	<stdlib.h>
+
+1604956145 source:c:\users\david\desktop\proekti\c\kol vezbi\zad2.c
+	<stdio.h>
+	<stdlib.h>
+
+1604962172 source:c:\users\david\desktop\proekti\c\kol vezbi\zad3.c
+	<stdio.h>
+	<stdlib.h>
+
+1604962180 source:c:\users\david\desktop\proekti\c\kol vezbi\zad4.c
+	<stdio.h>
+	<stdlib.h>
+
+1605050994 source:c:\users\david\desktop\proekti\c\kol vezbi\zad5.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1605045081 source:c:\users\david\desktop\proekti\c\kol vezbi\zad6.c
+	<stdio.h>
+	<stdlib.h>
+
+1605047500 source:c:\users\david\desktop\proekti\c\kol vezbi\zad7.c
+	<stdio.h>
+	<stdlib.h>
+
+1605050064 source:c:\users\david\desktop\proekti\c\kol vezbi\zad8.c
+	<stdio.h>
+	<stdlib.h>
+
+1605050456 source:c:\users\david\desktop\proekti\c\kol vezbi\zad9.c
+	<stdio.h>
+	<stdlib.h>
+
+1605050450 source:c:\users\david\desktop\proekti\c\kol vezbi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1605398266 source:c:\users\david\desktop\proekti\c\kol vezbi\10taproba.c
+	<stdio.h>
+	<stdlib.h>
+
